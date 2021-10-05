@@ -1,4 +1,4 @@
-@media screen and (min-width: 320px) and (max-width: 390px) {
+@media screen and (min-width: 320px) and (max-width: 389px) {
     .camel{
         width: 40px;
         left: 20px;
@@ -50,7 +50,7 @@
         width: 280px;
     }
 }
-@media screen and (min-width:700px) and (max-width:900px) {
+@media screen and (min-width:710px) and (max-width:800px) {
     .camel{
         width: 60px;
         left: 76px;
@@ -78,7 +78,7 @@
         width: 250px;
     }
 }
-@media screen and (min-width:1000px) and (max-width:1200px) {
+@media screen and (min-width:990px) and (max-width:1030px) {
     .camel{
         width: 100px;
         left: 40px;
