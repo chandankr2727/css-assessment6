@@ -22,6 +22,7 @@
     }
     .card{
         width: 250px;
+        background-position:center;
     }
 }
 @media screen and (min-width:390px) and (max-width:460px) {
@@ -48,6 +49,7 @@
     }
     .card{
         width: 280px;
+        background-position: center;
     }
 }
 @media screen and (min-width:500px) and (max-width:800px) {
@@ -76,6 +78,7 @@
     }
     .card{
         width: 250px;
+        background-position: center;
     }
 }
 @media screen and (min-width:990px) and (max-width:1030px) {
@@ -107,5 +110,6 @@
         width: 380px;
         height: 240px;
         font-size: 25px;
+        background-position: center;
     }
 }
