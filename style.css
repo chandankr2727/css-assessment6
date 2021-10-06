@@ -19,6 +19,7 @@ body{
 .menu{
     display: flex;
     position: absolute;
+    align-content: center;
     width: 28%;
     justify-content: space-between;
     right: 8.5rem;
@@ -26,9 +27,21 @@ body{
     color: white;
     font-size: 1.2rem;
 }
-.list{
-    width: 1.4rem;
+.menu-icon{
+    width: 1.7rem;
+    height: 1.7rem;
+    background: rgba(255, 255, 255, 0.349) ;
+    border-radius: 50%;
+    top: 5px;
+    margin-bottom: 15px;
+
+}
+.icon{
+    width: 1.15rem;
     color: white;
+    position: absolute;
+    bottom: 20px;
+    right: 5px;
 }
 .detail{
     position: relative;
